@@ -1,0 +1,10 @@
+\documentclass[12pt,fleqn]{article}
+
+\begin{document}
+<<<<<<< HEAD
+This is a test of \emph{testbranch}.
+\end{document}
+=======
+This is a test of a contradictory change.
+\end{document}
+>>>>>>> 3fc74b426b1ef7cca7bb8913d4ebd00f08d4f738
