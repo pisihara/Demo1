@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=latex 2017.12.26)  16 NOV 2018 13:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=latex 2017.12.26)  16 NOV 2018 13:23
 entering extended mode
 **./Test1.tex
 (Test1.tex
@@ -30,8 +30,7 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
-)
-No file Test1.aux.
+) (Test1.aux)
 \openout1 = `Test1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -46,16 +45,17 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
-[1
+ [1
 
-] (Test1.aux) ) 
+]
+(Test1.aux) ) 
 Here is how much of TeX's memory you used:
- 209 strings out of 493313
- 2317 string characters out of 3138915
+ 213 strings out of 493313
+ 2386 string characters out of 3138915
  53758 words of memory out of 3000000
- 3842 multiletter control sequences out of 15000+200000
- 3938 words of font info for 15 fonts, out of 3000000 for 9000
+ 3843 multiletter control sequences out of 15000+200000
+ 4285 words of font info for 16 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  23i,4n,24p,114b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Test1.dvi (1 page, 284 bytes).
+Output written on Test1.dvi (1 page, 332 bytes).
